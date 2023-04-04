@@ -1,0 +1,98 @@
+footer {
+  background: #fff url('~assets/images/footer-bg.png');
+
+  .logo-yostar {
+    width: 66.6rem;
+  }
+}
+
+.frame-container {
+  background: url('~assets/images/background.png') no-repeat 50%;
+  min-height: 82.5vh;
+
+  .iframe-wrapper {
+    iframe {
+      aspect-ratio: 16 / 10;
+    }
+
+    @apply relative;
+    z-index: 1;
+
+    &::before,
+    &::after {
+      content: '';
+
+      @apply block;
+      @apply absolute;
+
+      height: 82%;
+      width: 24.5%;
+      z-index: -1;
+      top: 18%;
+    }
+
+    &::before {
+      background: url('~assets/images/gamedev-left.png') no-repeat 50%;
+      left: -15.58%;
+
+      @apply bg-cover;
+    }
+
+    &::after {
+      background: url('~assets/images/gamedev-right.png') no-repeat 50%;
+      right: -15.58%;
+
+      @apply bg-cover;
+    }
+  }
+}
+
+.flex-edges {
+  flex: 0 0 21.5%;
+}
+
+.left-icons {
+  .help-icon,
+  .readme-icon {
+    @apply bg-cover;
+
+    height: 3.6vw;
+    width: 7.8vw;
+
+    &::after {
+      @apply bg-no-repeat;
+      @apply bg-contain;
+      @apply w-full;
+      @apply h-full;
+      @apply opacity-0;
+
+      transition: opacity 0.3s ease-in-out;
+    }
+
+    &:hover {
+      @apply cursor-pointer;
+
+      &::after {
+        @apply opacity-100;
+      }
+    }
+  }
+
+  .help-icon {
+    background-image: url('~assets/images/help.png');
+
+    &::after {
+      content: '';
+      background-image: url('~assets/images/help-hover.png');
+    }
+  }
+
+  .readme-icon {
+    background-image: url('~assets/images/readme.png');
+
+    &::after {
+      content: '';
+      background-image: url('~assets/images/readme-hover.png');
+    }
+  }
+}

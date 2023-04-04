@@ -1,0 +1,108 @@
+{
+  "title": "Blue Archive \"Millennium Quest\"",
+  "description": "An epic RPG created a long time ago by the Millennium Science School's Game Development Department - Millennium Quest.",
+
+  "help": {
+    "common": {
+      "enter": "Z (Enter)",
+      "esc": "X (Esc)",
+      "arrow-keys": "Arrow Keys (WASD)"
+    },
+
+    "moving-keybinds": {
+      "title": "Navigation Keybinds",
+      "command": "Open command selection window.",
+      "move": "Navigate the map."
+    },
+
+    "command-selection": {
+      "title": "Command Selection Keybinds",
+      "accept": "Make a decision.",
+      "back": "Go back to the previous menu.",
+      "move": "Navigate the menu."
+    },
+
+    "moving-commands": {
+      "speak": {
+        "name": "Talk",
+        "description": "Talk to the nearby entity."
+      },
+
+      "spell": {
+        "name": "Spell",
+        "description": "Check the spells Aris has learned."
+      },
+
+      "strength": {
+        "name": "Strength",
+        "description": "Check Aris' strength."
+      },
+
+      "equipment": {
+        "name": "Equipment",
+        "description": "Check Aris' equipment."
+      },
+
+      "pool": {
+        "name": "Pool",
+        "description": "Use a nearby pool of water."
+      },
+
+      "seek": {
+        "name": "Seek",
+        "description": "Search your surroundings."
+      },
+
+      "door": {
+        "name": "Door",
+        "description": "Open the nearby door."
+      },
+
+      "take": {
+        "name": "Take",
+        "description": "Take something from under your feet."
+      }
+    },
+
+    "battle-commands": {
+      "attack": {
+        "name": "Attack",
+        "description": "Strike the enemy."
+      },
+
+      "spell": {
+        "name": "Spell",
+        "description": "Check which spells Aris has learned."
+      },
+
+      "escape": {
+        "name": "Escape",
+        "description": "Escape from the enemy (may not always be possible)."
+      },
+
+      "equipment": {
+        "name": "Equipment",
+        "description": "Check what equipment Aris is wearing."
+      }
+    }
+  },
+
+  "readme": {
+    "notice": {
+      "title": "Notice",
+      "notice-1": "It may take some time for the game to start up. Please wait, even if the screen turns dark for a little bit.",
+      "notice-2": "The game does not have any save data. Progress is not saved across reloads."
+    },
+
+    "deprecated-os": {
+      "title": "Deprecated OS",
+      "description": "The following operating systems are deprecated.",
+      "os-1": "iOS 15.x, or lower",
+      "os-2": "iPad OS 15.x, or lower"
+    },
+
+    "licenses": {
+      "title": "Licenses"
+    }
+  }
+}

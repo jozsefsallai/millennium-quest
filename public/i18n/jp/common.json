@@ -1,0 +1,108 @@
+{
+  "title": "ブルーアーカイブ『MILLENNIUM QUEST』",
+  "description": "ミレニアムサイエンススクールのゲーム開発部が大昔に作ったRPG。『MILLENNIUM QUEST』",
+
+  "help": {
+    "common": {
+      "enter": "Z (Enter)",
+      "esc": "X (Esc)",
+      "arrow-keys": "矢印キー (WASD)"
+    },
+
+    "moving-keybinds": {
+      "title": "【移動時の操作説明】",
+      "command": "移動中コマンドを開きます",
+      "move": "移動をします"
+    },
+
+    "command-selection": {
+      "title": "【コマンド選択時の操作説明】",
+      "accept": "決定をします",
+      "back": "前の画面に戻ります",
+      "move": "移動をします"
+    },
+
+    "moving-commands": {
+      "speak": {
+        "name": "はなす",
+        "description": "近くの人と会話します"
+      },
+
+      "spell": {
+        "name": "じゅもん",
+        "description": "ありすが覚えているじゅもんを確認します"
+      },
+
+      "strength": {
+        "name": "つよさ",
+        "description": "ありすのつよさを確認します"
+      },
+
+      "equipment": {
+        "name": "どうぐ",
+        "description": "ありすが持っているどうぐを確認します"
+      },
+
+      "pool": {
+        "name": "かいだん",
+        "description": "近くの かいだんを使います (※ゲーム中に階段は登場しません)"
+      },
+
+      "seek": {
+        "name": "しらべる",
+        "description": "身の回りをしらべます"
+      },
+
+      "door": {
+        "name": "とびら",
+        "description": "近くのとびらを開けます"
+      },
+
+      "take": {
+        "name": "とる",
+        "description": "足元のものをとります"
+      }
+    },
+
+    "battle-commands": {
+      "attack": {
+        "name": "たたかう",
+        "description": "敵に対してこうげきします"
+      },
+
+      "spell": {
+        "name": "じゅもん",
+        "description": "ありすが覚えているじゅもんを確認します"
+      },
+
+      "escape": {
+        "name": "にげる",
+        "description": "敵からにげだします (にげられないこともあります)"
+      },
+
+      "equipment": {
+        "name": "どうぐ",
+        "description": "ありすが持っているどうぐを確認します"
+      }
+    }
+  },
+
+  "readme": {
+    "notice": {
+      "title": "【注意事項】",
+      "notice-1": "起動に時間がかかることがあります。画面が暗い場合でも、そのままでお待ちください。",
+      "notice-2": "本Webゲームにセーブデータはありません。ブラウザをリロードした場合や、タブを閉じた場合に、データはセーブされません。"
+    },
+
+    "deprecated-os": {
+      "title": "【非推奨OS】",
+      "description": "下記OSは非推奨となります。",
+      "os-1": "iOS 15.x 以下",
+      "os-2": "iPad OS 15.x 以下"
+    },
+
+    "licenses": {
+      "title": "【ライセンス表記】"
+    }
+  }
+}
