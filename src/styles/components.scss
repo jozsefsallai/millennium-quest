@@ -5,19 +5,26 @@
   transform: translate(-50%, 0);
   height: 8vh;
   width: 100%;
+  text-align: center;
 
-  img {
+  a {
     height: 100%;
     width: auto;
     margin: 0 auto;
     margin-top: 0.5vh;
+
+    img {
+      height: 100%;
+      width: auto;
+      margin: 0 auto;
+    }
   }
 
   .is-mobile {
     @media only screen and (orientation: portrait) {
       height: 8vw;
 
-      img {
+      a {
         margin-top: 0.5vw;
       }
     }
