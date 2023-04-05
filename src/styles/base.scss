@@ -4,4 +4,32 @@
 @tailwind components;
 @tailwind utilities;
 
+body {
+  &.is-mobile {
+    overflow: hidden;
+
+    @media only screen and (orientation: portrait) {
+      transform-origin: left top;
+      transform: rotate(90deg) translate(0, -100%);
+      width: 100vh;
+      height: 100vw;
+    }
+  }
+}
+
+h2 {
+  @apply text-[4rem];
+  @apply my-16;
+  @apply font-bold;
+
+  .is-mobile & {
+    @apply text-[2rem];
+    @apply my-8;
+  }
+
+  &:first-child {
+    @apply mt-0;
+  }
+}
+
 @import './components';

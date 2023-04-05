@@ -17,7 +17,7 @@
 
     "command-selection": {
       "title": "Command Selection Keybinds",
-      "accept": "Make a decision.",
+      "accept": "Make a selection.",
       "back": "Go back to the previous menu.",
       "move": "Navigate the menu."
     },
@@ -32,17 +32,17 @@
 
       "spell": {
         "name": "Spell",
-        "description": "Check the spells Aris has learned."
+        "description": "Inspect the spells Aris has learned."
       },
 
       "strength": {
         "name": "Strength",
-        "description": "Check Aris' strength."
+        "description": "Inspect Aris' strength."
       },
 
       "equipment": {
         "name": "Equipment",
-        "description": "Check Aris' equipment."
+        "description": "Inspect Aris' equipment."
       },
 
       "pool": {
@@ -62,7 +62,7 @@
 
       "take": {
         "name": "Take",
-        "description": "Take something from under your feet."
+        "description": "Take an item from around you."
       }
     },
 
@@ -76,7 +76,7 @@
 
       "spell": {
         "name": "Spell",
-        "description": "Check which spells Aris has learned."
+        "description": "Check what spells Aris has learned."
       },
 
       "escape": {
@@ -94,7 +94,7 @@
   "readme": {
     "notice": {
       "title": "Notice",
-      "notice-1": "It may take some time for the game to start up. Please wait, even if the screen turns dark for a little bit.",
+      "notice-1": "It may take some time for the game to start up. Please wait, even if the screen turns black for a short time.",
       "notice-2": "The game does not have any save data. Progress is not saved across reloads."
     },
 
@@ -105,8 +105,15 @@
       "os-2": "iPad OS 15.x, or lower"
     },
 
+    "archive": {
+      "title": "Copyright Notice",
+      "description": "This website serves as a public archive of the Blue Archive-themed game \"Millennium Quest\" released in April 2023."
+    },
+
     "licenses": {
       "title": "Licenses"
     }
-  }
+  },
+
+  "copyright-notice": "The game, as well as all the assets distributed through this website are the property of NEXON Games Co., Ltd. and Yostar, Inc. This website is not affiliated with the aforementioned companies in any way. For takedown requests, please write an email to jozsef@sallai.me."
 }

@@ -49,7 +49,7 @@ const HelpModal = ({ onModalClosed }: ModalProps) => {
 
       {movingKeybinds.map((keybind) => (
         <div key={`moving-${keybind.key}`}>
-          <strong>{keybind.key}:</strong>
+          <strong>{keybind.key}: </strong>
           <span>{keybind.description}</span>
         </div>
       ))}
@@ -58,7 +58,7 @@ const HelpModal = ({ onModalClosed }: ModalProps) => {
 
       {commandSelectionKeybinds.map((keybind) => (
         <div key={`command-selection-${keybind.key}`}>
-          <strong>{keybind.key}:</strong>
+          <strong>{keybind.key}: </strong>
           <span>{keybind.description}</span>
         </div>
       ))}
@@ -67,7 +67,7 @@ const HelpModal = ({ onModalClosed }: ModalProps) => {
 
       {movingCommands.map((command) => (
         <div key={`moving-commands-${command}`}>
-          <strong>{t(`help.moving-commands.${command}.name`)}:</strong>
+          <strong>{t(`help.moving-commands.${command}.name`)}: </strong>
           <span>{t(`help.moving-commands.${command}.description`)}</span>
         </div>
       ))}
@@ -76,7 +76,7 @@ const HelpModal = ({ onModalClosed }: ModalProps) => {
 
       {battleCommands.map((command) => (
         <div key={`battle-commands-${command}`}>
-          <strong>{t(`help.battle-commands.${command}.name`)}:</strong>
+          <strong>{t(`help.battle-commands.${command}.name`)}: </strong>
           <span>{t(`help.battle-commands.${command}.description`)}</span>
         </div>
       ))}

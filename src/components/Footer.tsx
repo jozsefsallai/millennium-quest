@@ -1,9 +1,12 @@
+import { useTranslation } from 'next-i18next';
 import Image from 'next/image';
 
 import yostarLogo from '~assets/images/yostar-bottom.png';
 import yostarCornerLogo from '~assets/images/yostar-topright.png';
 
 const Footer = () => {
+  const { t } = useTranslation();
+
   return (
     <footer className="px-3 py-12">
       <Image
@@ -13,6 +16,8 @@ const Footer = () => {
         alt="NEXON Games and Yostar logos"
         className="logo-yostar mx-auto"
       />
+
+      <p className="text-center py-8">{t('copyright-notice')}</p>
 
       <Image
         src={yostarCornerLogo.src}

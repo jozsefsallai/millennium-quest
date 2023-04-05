@@ -1,16 +1,3 @@
-body {
-  &.is-mobile {
-    overflow: hidden;
-
-    @media only screen and (orientation: portrait) {
-      transform-origin: left top;
-      transform: rotate(90deg) translate(0, -100%);
-      width: 100vh;
-      height: 100vw;
-    }
-  }
-}
-
 footer {
   background: #fff url('~assets/images/footer-bg.png');
 
