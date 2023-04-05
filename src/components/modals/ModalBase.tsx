@@ -8,7 +8,7 @@ export interface ModalBaseProps extends ModalProps {
 
 const ModalBase = ({ onModalClosed, children }: ModalBaseProps) => {
   return (
-    <div className="modal fixed z-50 border-2 border-white bg-black text-white text-[3rem] font-display">
+    <div className="modal fixed z-50 border-2 border-white bg-black text-white font-display">
       <div
         className="modal-close-button absolute cursor-pointer text-white bg-black border-2 rounded-md border-white hover:bg-white hover:text-black"
         onClick={onModalClosed}

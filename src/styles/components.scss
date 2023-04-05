@@ -1,3 +1,16 @@
+body {
+  &.is-mobile {
+    overflow: hidden;
+
+    @media only screen and (orientation: portrait) {
+      transform-origin: left top;
+      transform: rotate(90deg) translate(0, -100%);
+      width: 100vh;
+      height: 100vw;
+    }
+  }
+}
+
 footer {
   background: #fff url('~assets/images/footer-bg.png');
 
@@ -10,9 +23,34 @@ footer {
   background: url('~assets/images/background.png') no-repeat 50%;
   min-height: 82.5vh;
 
+  .is-mobile & {
+    min-height: auto;
+    height: 100vh;
+
+    @media only screen and (orientation: portrait) {
+      height: 100vw;
+    }
+  }
+
   .iframe-wrapper {
     iframe {
       aspect-ratio: 16 / 10;
+    }
+
+    &.is-fullscreen {
+      iframe {
+        aspect-ratio: unset;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100vw;
+        height: 100vh;
+
+        @media only screen and (orientation: portrait) {
+          width: 100vh;
+          height: 100vw;
+        }
+      }
     }
 
     @apply relative;
@@ -59,6 +97,13 @@ footer {
 
     height: 3.6vw;
     width: 7.8vw;
+
+    .is-mobile & {
+      @media only screen and (orientation: portrait) {
+        height: 3.6vh;
+        width: 7.8vh;
+      }
+    }
 
     &::after {
       @apply bg-no-repeat;
@@ -125,5 +170,27 @@ footer {
     &::-webkit-scrollbar {
       display: none;
     }
+
+    .is-mobile & {
+      @media only screen and (orientation: portrait) {
+        width: 60vh;
+        min-height: 50vw;
+        max-height: 80vw;
+      }
+    }
+  }
+
+  font-size: 3rem;
+
+  .is-mobile & {
+    font-size: 1.5rem;
+  }
+}
+
+.mobile-only {
+  display: none;
+
+  .is-mobile & {
+    display: block;
   }
 }
