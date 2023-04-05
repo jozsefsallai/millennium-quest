@@ -1,3 +1,29 @@
+.logo {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translate(-50%, 0);
+  height: 8vh;
+  width: 100%;
+
+  img {
+    height: 100%;
+    width: auto;
+    margin: 0 auto;
+    margin-top: 0.5vh;
+  }
+
+  .is-mobile {
+    @media only screen and (orientation: portrait) {
+      height: 8vw;
+
+      img {
+        margin-top: 0.5vw;
+      }
+    }
+  }
+}
+
 footer {
   background: #fff url('~assets/images/footer-bg.png');
 

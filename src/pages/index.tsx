@@ -9,6 +9,7 @@ import ogImage from '~assets/images/open-graph.png';
 import { useRouter } from 'next/router';
 import { ModalType } from '@/lib/modal';
 import ModalContainer from '@/components/ModalContainer';
+import Logo from '@/components/Logo';
 
 const ORIGINAL_LINK =
   'https://s3-us-west-1.amazonaws.com/nimblebunworks-data/millennium-quest/original/index.html';
@@ -57,6 +58,8 @@ export default function Home() {
       />
 
       <div className="app">
+        <Logo />
+
         <div className="frame-container flex items-center">
           <LeftIcons onHelpClick={onHelpClick} onReadmeClick={onReadmeClick} />
           <GameFrame frameUrl={frameUrl} />
