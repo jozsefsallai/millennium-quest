@@ -7,6 +7,8 @@ import { useTranslation } from 'next-i18next';
 import Meta from '@/components/Meta';
 import ogImage from '~assets/images/open-graph.png';
 import { useRouter } from 'next/router';
+import { ModalType } from '@/lib/modal';
+import ModalContainer from '@/components/ModalContainer';
 
 const ORIGINAL_LINK =
   'https://s3-us-west-1.amazonaws.com/nimblebunworks-data/millennium-quest/original/index.html';
@@ -14,22 +16,20 @@ const EN_LINK =
   'https://s3-us-west-1.amazonaws.com/nimblebunworks-data/millennium-quest/original/index.html';
 
 export default function Home() {
-  const [isHelpOpen, setIsHelpOpen] = useState(false);
-  const [isReadmeOpen, setIsReadmeOpen] = useState(false);
+  const [activeModal, setActiveModal] = useState<ModalType | null>(null);
 
   const [frameUrl, setFrameUrl] = useState(ORIGINAL_LINK);
 
   const onHelpClick = () => {
-    setIsHelpOpen(true);
+    setActiveModal(ModalType.Help);
   };
 
   const onReadmeClick = () => {
-    setIsReadmeOpen(true);
+    setActiveModal(ModalType.Readme);
   };
 
   const onModalClosed = () => {
-    setIsHelpOpen(false);
-    setIsReadmeOpen(false);
+    setActiveModal(null);
   };
 
   const { t } = useTranslation();
@@ -64,6 +64,11 @@ export default function Home() {
         </div>
 
         <Footer />
+
+        <ModalContainer
+          activeModal={activeModal}
+          onModalClosed={onModalClosed}
+        />
       </div>
     </>
   );

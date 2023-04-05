@@ -23,6 +23,8 @@
     },
 
     "moving-commands": {
+      "title": "移動中コマンドの役割",
+
       "speak": {
         "name": "はなす",
         "description": "近くの人と会話します"
@@ -65,6 +67,8 @@
     },
 
     "battle-commands": {
+      "title": "バトル中コマンドの役割",
+
       "attack": {
         "name": "たたかう",
         "description": "敵に対してこうげきします"

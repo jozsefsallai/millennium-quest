@@ -23,6 +23,8 @@
     },
 
     "moving-commands": {
+      "title": "Moving Commands",
+
       "speak": {
         "name": "Talk",
         "description": "Talk to the nearby entity."
@@ -65,6 +67,8 @@
     },
 
     "battle-commands": {
+      "title": "Battle Commands",
+
       "attack": {
         "name": "Attack",
         "description": "Strike the enemy."

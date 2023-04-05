@@ -55,6 +55,7 @@ footer {
   .help-icon,
   .readme-icon {
     @apply bg-cover;
+    @apply relative;
 
     height: 3.6vw;
     width: 7.8vw;
@@ -65,6 +66,13 @@ footer {
       @apply w-full;
       @apply h-full;
       @apply opacity-0;
+
+      @apply absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+
+      z-index: 10;
 
       transition: opacity 0.3s ease-in-out;
     }
@@ -82,7 +90,7 @@ footer {
     background-image: url('~assets/images/help.png');
 
     &::after {
-      content: '';
+      content: ' ';
       background-image: url('~assets/images/help-hover.png');
     }
   }
@@ -91,8 +99,31 @@ footer {
     background-image: url('~assets/images/readme.png');
 
     &::after {
-      content: '';
+      content: ' ';
       background-image: url('~assets/images/readme-hover.png');
+    }
+  }
+}
+
+.modal {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+  .modal-close-button {
+    top: -1.5rem;
+    right: -1.5rem;
+    z-index: 80;
+  }
+
+  .modal-content {
+    overflow-y: auto;
+    width: 60vw;
+    min-height: 50vh;
+    max-height: 80vh;
+
+    &::-webkit-scrollbar {
+      display: none;
     }
   }
 }
