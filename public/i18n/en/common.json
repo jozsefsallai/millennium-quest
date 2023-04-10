@@ -46,8 +46,8 @@
       },
 
       "pool": {
-        "name": "Pool",
-        "description": "Use a nearby pool of water."
+        "name": "Stairs",
+        "description": "Use the nearby stairs (there are no stairs in this game)."
       },
 
       "seek": {

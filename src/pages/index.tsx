@@ -14,7 +14,7 @@ import Logo from '@/components/Logo';
 const ORIGINAL_LINK =
   'https://s3-us-west-1.amazonaws.com/nimblebunworks-data/millennium-quest/original/index.html';
 const EN_LINK =
-  'https://s3-us-west-1.amazonaws.com/nimblebunworks-data/millennium-quest/original/index.html';
+  'https://s3-us-west-1.amazonaws.com/nimblebunworks-data/millennium-quest/en/index.html';
 
 export default function Home() {
   const [activeModal, setActiveModal] = useState<ModalType | null>(null);
