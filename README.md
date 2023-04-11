@@ -22,3 +22,6 @@ npm run dev
 The website's source code is licensed under the MIT license. The game, as well
 as the graphic assets displayed on the website, are the property of NEXON Games
 Co., Ltd. and Yostar, Inc.
+
+[nextjs-url]: https://nextjs.org/
+[tailwind-url]: https://tailwindcss.com/
