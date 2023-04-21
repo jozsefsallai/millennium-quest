@@ -92,7 +92,7 @@
   {
     "index": 8855,
     "value": "あら　これは　よそうがいの　おきゃくさんです\nユウカちゃんは　いま　いそがしいので\nわたしが　おあいてを　しますね",
-    "translation": "Oh, you must be a customer from outside the kingdom.\nPrincess Yuuka is busy right now, so I'll take care of you."
+    "translation": "Oh, an unexpected guest from outside the kingdom...\nPrincess Yuuka is busy right now, so I'll take care of you."
   },
   {
     "index": 8856,
@@ -172,7 +172,7 @@
   {
     "index": 8871,
     "value": "おうじょユウカ：\nおお　ゆうしゃアリスよ。\nまおうのまのてによって　このげーむぶおうこくが",
-    "translation": "Princess Yuuka:\nOh, Aris, the brave hero.\nThis game's kingdom has been overtaken by the Demon Lord!"
+    "translation": "Princess Yuuka:\nOh, Aris, the brave hero. The Game Development\nClub's Kingdom has been overtaken by the Demon Lord!"
   },
   {
     "index": 8872,
@@ -217,7 +217,7 @@
   {
     "index": 8880,
     "value": "ききにひんしている…\nどうかその　ゆうしゃのちからで\nまおうを　たおしてくれ！",
-    "translation": "That's no good...\nHero, please use your might\nand defeat the evil forces!"
+    "translation": "We are on the brink of disaster...\nHero, please use your might\nand defeat the evil forces!"
   },
   {
     "index": 8881,
@@ -227,7 +227,7 @@
   {
     "index": 8882,
     "value": "きよわそうな　サキュバスが　うつっている\nいまは　どうしているのだろうか　わらえているだろうか\nごみぶくろに　いれた",
-    "translation": "You see a pure succubus! You wonder\nwhat they're doing right now... Are they still restless?\nYou put it into the trash."
+    "translation": "You see a timid succubus! You wonder\nwhat they're doing right now... Are they still restless?\nYou put it into the trash."
   },
   {
     "index": 8883,
@@ -292,7 +292,7 @@
   {
     "index": 8895,
     "value": "しらべる",
-    "translation": "Seek"
+    "translation": "Examine"
   },
   {
     "index": 8896,
@@ -312,7 +312,7 @@
   {
     "index": 8899,
     "value": "せかいの　めいうんは\nあなたのてに　かかっています！",
-    "translation": "\nThe fate of this world is in your hands."
+    "translation": "The fate of this world is in your hands."
   },
   {
     "index": 8900,
@@ -522,7 +522,7 @@
   {
     "index": 8941,
     "value": "まおうのしろの　あかりは\nくれぐれも　けしては　いけません",
-    "translation": "The light of the Demon Lord's lair is\nsomething you must never touch."
+    "translation": "You must not extinguish the lights in the Demon Lord's lair."
   },
   {
     "index": 8942,
@@ -607,7 +607,7 @@
   {
     "index": 8959,
     "value": "ゴーレムでできた　おおきな　こけいせっけん\nつちに　かえしてあげた",
-    "translation": "A large bar of soap made by a golem.\nI put it back in the ground."
+    "translation": "A large bar of soap made by a golem.\nYou put it back in the ground."
   },
   {
     "index": 8960,
@@ -717,7 +717,7 @@
   {
     "index": 8981,
     "value": "ダイキルト",
-    "translation": "Large Quilt"
+    "translation": "Zoomph"
   },
   {
     "index": 8982,
@@ -732,12 +732,12 @@
   {
     "index": 8984,
     "value": "ハイドラが　つかっていた　からっぽの　めぐすり\nあたまが　いっぱいだと　さすのが　たいへん！\nごみぶくろに　いれた",
-    "translation": "An empty medicine bottle that the Hydra was using.\nMust be cumbersome with how many heads they have.\nYou put it into the trash."
+    "translation": "An empty bottle of eye drops belinging to a Hydra.\nMust be cumbersome with how many heads they have.\nYou put it into the trash."
   },
   {
     "index": 8985,
     "value": "ハイドラのめぐすりが　つれた・・・",
-    "translation": "Got Hydra's Medicine..."
+    "translation": "Got Hydra's Eye Drops..."
   },
   {
     "index": 8986,
