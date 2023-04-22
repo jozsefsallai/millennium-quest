@@ -56,6 +56,7 @@ jobs:
           aws_access_key_id: ${{ secrets.AWS_ACCESS_KEY_ID }}
           aws_secret_access_key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           aws_region: us-west-1
+          flags: --acl public-read
 
       - name: Clean up
         run: rm -rf game-dist
