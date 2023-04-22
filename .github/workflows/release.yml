@@ -52,7 +52,7 @@ jobs:
         with:
           command: cp
           source: game-dist/base/ba2.data.br
-          destination: s3://nimblebunworks-data/millennium-quest/en/Build/ba3.data.br
+          destination: s3://nimblebunworks-data/millennium-quest/en/Build/ba2.data.br
           aws_access_key_id: ${{ secrets.AWS_ACCESS_KEY_ID }}
           aws_secret_access_key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           aws_region: us-west-1
