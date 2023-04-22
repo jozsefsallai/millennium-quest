@@ -1,862 +1,862 @@
 [
   {
     "index": 806,
-    "value": "4コア8スレッドCPUに　4Kかいぞうどの\n8bitレトロゲームき\nざんねんながら　こわれているようだ",
-    "translation": "Quad-core 8-thread CPU, 4K\nresolution 8-bit retro handheld.\nUnfortunately, it's broken."
+    "original": "4コア8スレッドCPUに　4Kかいぞうどの\n8bitレトロゲームき\nざんねんながら　こわれているようだ",
+    "value": "Quad-core 8-thread CPU, 4K\nresolution 8-bit retro handheld.\nUnfortunately, it's broken."
   },
   {
     "index": 813,
-    "value": "8コア16スレッドカスタムCPUに　8Kかいぞうどを　ほこる\n16bitレトロゲームき\nざんねんながら　こわれているようだ",
-    "translation": "Octa-core 16-thread custom CPU, 8K\nresolution 16-bit retro handheld.\nUnfortunately, it's broken."
+    "original": "8コア16スレッドカスタムCPUに　8Kかいぞうどを　ほこる\n16bitレトロゲームき\nざんねんながら　こわれているようだ",
+    "value": "Octa-core 16-thread custom CPU, 8K\nresolution 16-bit retro handheld.\nUnfortunately, it's broken."
   },
   {
     "index": 8714,
-    "value": "{0}　が　あらわれた！",
-    "translation": "{0} has appeared!"
+    "original": "{0}　が　あらわれた！",
+    "value": "{0} has appeared!"
   },
   {
     "index": 8715,
-    "value": "{0}　のこうげき\n{1}に　{2}ポイントの\nダメージを　あたえた！",
-    "translation": "{0} attacked!\nDealt {2} points of damage\nto {1}!"
+    "original": "{0}　のこうげき\n{1}に　{2}ポイントの\nダメージを　あたえた！",
+    "value": "{0} attacked!\nDealt {2} points of damage\nto {1}!"
   },
   {
     "index": 8716,
-    "value": "{0}　のこうげき\n{1}は　{2}ポイントの\nダメージを　うけた！",
-    "translation": "{1} took {2} points of\ndamage from {0}'s attack!"
+    "original": "{0}　のこうげき\n{1}は　{2}ポイントの\nダメージを　うけた！",
+    "value": "{1} took {2} points of\ndamage from {0}'s attack!"
   },
   {
     "index": 8717,
-    "value": "{0}は　{1}をつかった！\n{2}に　{3}ポイントの\nダメージを　あたえた！",
-    "translation": "{0} used {1} on {2}\nand dealt {3} points of damage!"
+    "original": "{0}は　{1}をつかった！\n{2}に　{3}ポイントの\nダメージを　あたえた！",
+    "value": "{0} used {1} on {2}\nand dealt {3} points of damage!"
   },
   {
     "index": 8718,
-    "value": "{0}は　{1}をつかった！\n{2}の　HPと MPが　ぜんかいふくした！",
-    "translation": "{0} used {1}!\n{2}'s HP and MP were fully restored."
+    "original": "{0}は　{1}をつかった！\n{2}の　HPと MPが　ぜんかいふくした！",
+    "value": "{0} used {1}!\n{2}'s HP and MP were fully restored."
   },
   {
     "index": 8719,
-    "value": "{0}は　{1}をつかった！\n{2}の　{3}が　ぜんかいふくした！",
-    "translation": "{0} used {1}!\n{2}'s {3} was fully restored."
+    "original": "{0}は　{1}をつかった！\n{2}の　{3}が　ぜんかいふくした！",
+    "value": "{0} used {1}!\n{2}'s {3} was fully restored."
   },
   {
     "index": 8720,
-    "value": "{0}は　{1}をつかった！\n{2}の　{3}があがった！",
-    "translation": "{0} used {1}!\nIncreased {2}'s {3}."
+    "original": "{0}は　{1}をつかった！\n{2}の　{3}があがった！",
+    "value": "{0} used {1}!\nIncreased {2}'s {3}."
   },
   {
     "index": 8721,
-    "value": "{0}は　{1}をつかった！\n{2}の　{3}がさがった！",
-    "translation": "{0} used {1}!\nDecreased {2}'s {3}."
+    "original": "{0}は　{1}をつかった！\n{2}の　{3}がさがった！",
+    "value": "{0} used {1}!\nDecreased {2}'s {3}."
   },
   {
     "index": 8722,
-    "value": "{0}は　{1}をつかった！\n{2}は　{3}ポイントかいふくした！",
-    "translation": "{0} used {1}!\n{2} recovered {3} points!"
+    "original": "{0}は　{1}をつかった！\n{2}は　{3}ポイントかいふくした！",
+    "value": "{0} used {1}!\n{2} recovered {3} points!"
   },
   {
     "index": 8723,
-    "value": "{0}は　{1}をつかった！\n{2}は　{3}ポイントの\nダメージを　うけた！",
-    "translation": "{0} used {1}!\n{2} took {3} points of damage."
+    "original": "{0}は　{1}をつかった！\n{2}は　{3}ポイントの\nダメージを　うけた！",
+    "value": "{0} used {1}!\n{2} took {3} points of damage."
   },
   {
     "index": 8724,
-    "value": "{0}は　きぜつしてしまった！",
-    "translation": "{0} has fainted!"
+    "original": "{0}は　きぜつしてしまった！",
+    "value": "{0} has fainted!"
   },
   {
     "index": 8725,
-    "value": "{0}は　にげだした！",
-    "translation": "{0} escaped!"
+    "original": "{0}は　にげだした！",
+    "value": "{0} escaped!"
   },
   {
     "index": 8726,
-    "value": "{0}を　たおした\nけいけんち　{1}ポイントかくとく\n{2}ゴールドを　てにいれた",
-    "translation": "Defeated {0}!\nGained {1} experience points\nand received {2} gold."
+    "original": "{0}を　たおした\nけいけんち　{1}ポイントかくとく\n{2}ゴールドを　てにいれた",
+    "value": "Defeated {0}!\nGained {1} experience points\nand received {2} gold."
   },
   {
     "index": 8727,
-    "value": "{0}を　つりあげた！",
-    "translation": "Fished out {0}!"
+    "original": "{0}を　つりあげた！",
+    "value": "Fished out {0}!"
   },
   {
     "index": 8852,
-    "value": "「まぼろしのさかな」とよばれる　きんいろのマグロ\nびしょくけんきゅうかいが　むかしごうだつした\n「おなじこたい」かはふめい",
-    "translation": "The gold tuna, also known as the \"Illusionary Fish\".\nIt was discovered by a deep sea expedition many years ago.\nIt is unknown if all specimens belong to the same population."
+    "original": "「まぼろしのさかな」とよばれる　きんいろのマグロ\nびしょくけんきゅうかいが　むかしごうだつした\n「おなじこたい」かはふめい",
+    "value": "The gold tuna, also known as the \"Illusionary Fish\".\nIt was discovered by a deep sea expedition many years ago.\nIt is unknown if all specimens belong to the same population."
   },
   {
     "index": 8854,
-    "value": "あしもとに　なにも　ない！",
-    "translation": "There is nothing in front of you!"
+    "original": "あしもとに　なにも　ない！",
+    "value": "There is nothing in front of you!"
   },
   {
     "index": 8855,
-    "value": "あら　これは　よそうがいの　おきゃくさんです\nユウカちゃんは　いま　いそがしいので\nわたしが　おあいてを　しますね",
-    "translation": "Oh, an unexpected guest from outside the kingdom...\nPrincess Yuuka is busy right now, so I'll take care of you."
+    "original": "あら　これは　よそうがいの　おきゃくさんです\nユウカちゃんは　いま　いそがしいので\nわたしが　おあいてを　しますね",
+    "value": "Oh, an unexpected guest from outside the kingdom...\nPrincess Yuuka is busy right now, so I'll take care of you."
   },
   {
     "index": 8856,
-    "value": "ありす",
-    "translation": "Aris"
+    "original": "ありす",
+    "value": "Aris"
   },
   {
     "index": 8857,
-    "value": "ありす　は　たからばこ　を　あけた\n{0}　を　てにいれた",
-    "translation": "Aris opened the treasure chest\nand got {0}."
+    "original": "ありす　は　たからばこ　を　あけた\n{0}　を　てにいれた",
+    "value": "Aris opened the treasure chest\nand got {0}."
   },
   {
     "index": 8858,
-    "value": "ありすの　HPと　MPが　ぜんかいふくした！",
-    "translation": "Aris' HP and MP have been fully restored!"
+    "original": "ありすの　HPと　MPが　ぜんかいふくした！",
+    "value": "Aris' HP and MP have been fully restored!"
   },
   {
     "index": 8859,
-    "value": "ありすの　{0}が\n{1}ポイント　あがった！",
-    "translation": "Aris' {0} has increased by {1} points!"
+    "original": "ありすの　{0}が\n{1}ポイント　あがった！",
+    "value": "Aris' {0} has increased by {1} points!"
   },
   {
     "index": 8860,
-    "value": "ありすの　{0}が\nぜんかいふくした！",
-    "translation": "Aris' {0} has been\nfully restored!"
+    "original": "ありすの　{0}が\nぜんかいふくした！",
+    "value": "Aris' {0} has been\nfully restored!"
   },
   {
     "index": 8861,
-    "value": "ありすの　あしもとに　あなが　あいた！",
-    "translation": "A hole appeared under Aris' feet!"
+    "original": "ありすの　あしもとに　あなが　あいた！",
+    "value": "A hole appeared under Aris' feet!"
   },
   {
     "index": 8862,
-    "value": "ありすの　レベルが　さいだいまで　あがった！\nありすの　HPと　MPが　ぜんかいふくした！",
-    "translation": "Aris' level has reached the maximum!\nAris' HP and MP have been fully restored!"
+    "original": "ありすの　レベルが　さいだいまで　あがった！\nありすの　HPと　MPが　ぜんかいふくした！",
+    "value": "Aris' level has reached the maximum!\nAris' HP and MP have been fully restored!"
   },
   {
     "index": 8863,
-    "value": "ありすの　レベルは　すでに　さいだいだ！\nありすの　HPと　MPが　ぜんかいふくした！",
-    "translation": "Aris' level has already reached the maximum!\nAris' HP and MP have been fully restored!"
+    "original": "ありすの　レベルは　すでに　さいだいだ！\nありすの　HPと　MPが　ぜんかいふくした！",
+    "value": "Aris' level has already reached the maximum!\nAris' HP and MP have been fully restored!"
   },
   {
     "index": 8864,
-    "value": "ありすは　{0}を　つかった！",
-    "translation": "Aris used {0}!"
+    "original": "ありすは　{0}を　つかった！",
+    "value": "Aris used {0}!"
   },
   {
     "index": 8865,
-    "value": "ありすは　{0}を　まとめて　つかった！",
-    "translation": "Aris used {0} all at once!"
+    "original": "ありすは　{0}を　まとめて　つかった！",
+    "value": "Aris used {0} all at once!"
   },
   {
     "index": 8866,
-    "value": "ありすは　つりざおを　とりだし\nさかなつりを　はじめた",
-    "translation": "Aris took out a fishing rod\nand started fishing."
+    "original": "ありすは　つりざおを　とりだし\nさかなつりを　はじめた",
+    "value": "Aris took out a fishing rod\nand started fishing."
   },
   {
     "index": 8867,
-    "value": "ありすは　めをさました",
-    "translation": "Aris awakened."
+    "original": "ありすは　めをさました",
+    "value": "Aris awakened."
   },
   {
     "index": 8868,
-    "value": "いっけんすると　むだなもの　かもしれない\nしかし　それもつみかさねると　けいけんになっていく\nじんせいは　そうして　かがやいていく",
-    "translation": "It may look useless, but once you have\nenough, they will turn into experience.\nThis is how you will grow."
+    "original": "いっけんすると　むだなもの　かもしれない\nしかし　それもつみかさねると　けいけんになっていく\nじんせいは　そうして　かがやいていく",
+    "value": "It may look useless, but once you have\nenough, they will turn into experience.\nThis is how you will grow."
   },
   {
     "index": 8869,
-    "value": "いまは　つかえないようだ",
-    "translation": "You can't use this item now."
+    "original": "いまは　つかえないようだ",
+    "value": "You can't use this item now."
   },
   {
     "index": 8870,
-    "value": "おうじょユウカ：\nおお　ゆうしゃアリスよ。\nきぜつしてしまうとは　なさけない…",
-    "translation": "Princess Yuuka:\nOh, Aris, the brave hero.\nIt's a shame you've been defeated..."
+    "original": "おうじょユウカ：\nおお　ゆうしゃアリスよ。\nきぜつしてしまうとは　なさけない…",
+    "value": "Princess Yuuka:\nOh, Aris, the brave hero.\nIt's a shame you've been defeated..."
   },
   {
     "index": 8871,
-    "value": "おうじょユウカ：\nおお　ゆうしゃアリスよ。\nまおうのまのてによって　このげーむぶおうこくが",
-    "translation": "Princess Yuuka:\nOh, Aris, the brave hero. The Game Development\nClub's Kingdom has been overtaken by the Demon Lord!"
+    "original": "おうじょユウカ：\nおお　ゆうしゃアリスよ。\nまおうのまのてによって　このげーむぶおうこくが",
+    "value": "Princess Yuuka:\nOh, Aris, the brave hero. The Game Development\nClub's Kingdom has been overtaken by the Demon Lord!"
   },
   {
     "index": 8872,
-    "value": "おうじょユウカ：\nゆうしゃ　よ\nついにここまで　たどりついたか",
-    "translation": "Princess Yuuka:\nOh, brave hero...\nYou've finally reached this far, huh?"
+    "original": "おうじょユウカ：\nゆうしゃ　よ\nついにここまで　たどりついたか",
+    "value": "Princess Yuuka:\nOh, brave hero...\nYou've finally reached this far, huh?"
   },
   {
     "index": 8873,
-    "value": "おとなの　サキュバスが　うつっている\nサキュバスのしゃかいは　たいへんそうだ\nごみぶくろに　いれた",
-    "translation": "You see a mature succubus!\nTheir life seems to be very difficult.\nYou put it into the trash."
+    "original": "おとなの　サキュバスが　うつっている\nサキュバスのしゃかいは　たいへんそうだ\nごみぶくろに　いれた",
+    "value": "You see a mature succubus!\nTheir life seems to be very difficult.\nYou put it into the trash."
   },
   {
     "index": 8874,
-    "value": "おまえが　ゆうしゃ　か　よくここまで\nきたな　まおうの　もとには\nとおさないぜ！",
-    "translation": "I don't know how you got this far,\nbut you're not going to get past me!"
+    "original": "おまえが　ゆうしゃ　か　よくここまで\nきたな　まおうの　もとには\nとおさないぜ！",
+    "value": "I don't know how you got this far,\nbut you're not going to get past me!"
   },
   {
     "index": 8875,
-    "value": "かいしんカ",
-    "translation": "Recovery"
+    "original": "かいしんカ",
+    "value": "Recovery"
   },
   {
     "index": 8876,
-    "value": "かいだん",
-    "translation": "Stairs"
+    "original": "かいだん",
+    "value": "Stairs"
   },
   {
     "index": 8877,
-    "value": "かいひカ",
-    "translation": "Evasion"
+    "original": "かいひカ",
+    "value": "Evasion"
   },
   {
     "index": 8878,
-    "value": "かいふくのいずみを　みつけた！\nなんと　ありすの　HPと　MPが　ぜんかいふくした！",
-    "translation": "Found the Well of Recovery!\nAris' HP and MP have been fully restored!"
+    "original": "かいふくのいずみを　みつけた！\nなんと　ありすの　HPと　MPが　ぜんかいふくした！",
+    "value": "Found the Well of Recovery!\nAris' HP and MP have been fully restored!"
   },
   {
     "index": 8879,
-    "value": "がくせいふく",
-    "translation": "Student Uniform"
+    "original": "がくせいふく",
+    "value": "Student Uniform"
   },
   {
     "index": 8880,
-    "value": "ききにひんしている…\nどうかその　ゆうしゃのちからで\nまおうを　たおしてくれ！",
-    "translation": "We are on the brink of disaster...\nHero, please use your might\nand defeat the evil forces!"
+    "original": "ききにひんしている…\nどうかその　ゆうしゃのちからで\nまおうを　たおしてくれ！",
+    "value": "We are on the brink of disaster...\nHero, please use your might\nand defeat the evil forces!"
   },
   {
     "index": 8881,
-    "value": "きたな　まおうの　もとには\nとおさないぜ！\nかかってこい！",
-    "translation": "If you truly want to go to the Demon Lord's\nlair, then you'll have to defeat me!\nBring it on!"
+    "original": "きたな　まおうの　もとには\nとおさないぜ！\nかかってこい！",
+    "value": "If you truly want to go to the Demon Lord's\nlair, then you'll have to defeat me!\nBring it on!"
   },
   {
     "index": 8882,
-    "value": "きよわそうな　サキュバスが　うつっている\nいまは　どうしているのだろうか　わらえているだろうか\nごみぶくろに　いれた",
-    "translation": "You see a timid succubus! You wonder\nwhat they're doing right now... Are they still restless?\nYou put it into the trash."
+    "original": "きよわそうな　サキュバスが　うつっている\nいまは　どうしているのだろうか　わらえているだろうか\nごみぶくろに　いれた",
+    "value": "You see a timid succubus! You wonder\nwhat they're doing right now... Are they still restless?\nYou put it into the trash."
   },
   {
     "index": 8883,
-    "value": "きんちょうしたかおの　サキュバスが　うつっている\nサキュバスの　しゅうかつは　たいへんそうだ\nごみぶくろに　いれた",
-    "translation": "You see a distressed succubus!\nIt seems like the succubus is in trouble.\nYou put it into the trash."
+    "original": "きんちょうしたかおの　サキュバスが　うつっている\nサキュバスの　しゅうかつは　たいへんそうだ\nごみぶくろに　いれた",
+    "value": "You see a distressed succubus!\nIt seems like the succubus is in trouble.\nYou put it into the trash."
   },
   {
     "index": 8884,
-    "value": "ぐっ・・・　いいですか　みずの　ふたつとなりに　\nとうめいの　みちなんて　ありませんからね\nほんとうの　ほんとうに　ありませんから！",
-    "translation": "Ugh... Lemme tell you something.\nThere is no hidden path next to the two water patches, okay?\nThere really, really isn't."
+    "original": "ぐっ・・・　いいですか　みずの　ふたつとなりに　\nとうめいの　みちなんて　ありませんからね\nほんとうの　ほんとうに　ありませんから！",
+    "value": "Ugh... Lemme tell you something.\nThere is no hidden path next to the two water patches, okay?\nThere really, really isn't."
   },
   {
     "index": 8885,
-    "value": "こうかは　すでに　はつどうしている！",
-    "translation": "The effect has already been activated!"
+    "original": "こうかは　すでに　はつどうしている！",
+    "value": "The effect has already been activated!"
   },
   {
     "index": 8886,
-    "value": "こうげきカ",
-    "translation": "Attack"
+    "original": "こうげきカ",
+    "value": "Attack"
   },
   {
     "index": 8887,
-    "value": "ここまできた　ゆうしゃに\nけいいをはらい　ちょくせつ　わたしが\nてをくだしてやろう",
-    "translation": "I must applaud you for your efforts.\nBut it all ends here.\nMy plans will not be ruined by you, hero."
+    "original": "ここまできた　ゆうしゃに\nけいいをはらい　ちょくせつ　わたしが\nてをくだしてやろう",
+    "value": "I must applaud you for your efforts.\nBut it all ends here.\nMy plans will not be ruined by you, hero."
   },
   {
     "index": 8888,
-    "value": "このじつりょく　きろくには　ありませんでしたね\nふふっ　すばらしいです\nこれなら　だいじょうぶでしょう　いってらっしゃい",
-    "translation": "I had no records of this ability.\nHeehee, I'm sorry, Yuuka-chan...\nI guess I'll let you continue, hero. Go ahead."
+    "original": "このじつりょく　きろくには　ありませんでしたね\nふふっ　すばらしいです\nこれなら　だいじょうぶでしょう　いってらっしゃい",
+    "value": "I had no records of this ability.\nHeehee, I'm sorry, Yuuka-chan...\nI guess I'll let you continue, hero. Go ahead."
   },
   {
     "index": 8889,
-    "value": "このたたかいからは　にげられない！",
-    "translation": "You can't escape from this battle!"
+    "original": "このたたかいからは　にげられない！",
+    "value": "You can't escape from this battle!"
   },
   {
     "index": 8890,
-    "value": "こんぶ",
-    "translation": "Kelp"
+    "original": "こんぶ",
+    "value": "Kelp"
   },
   {
     "index": 8891,
-    "value": "こんぶを　つかった！\nうみのそこで　とれる　いきもので　しょくぶつ　ではない\nかんそうしたものは　たべすぎるとあぶない",
-    "translation": "Used Kelp!\nA natural product of the deep sea.\nEating too much dried kelp is dangerous!"
+    "original": "こんぶを　つかった！\nうみのそこで　とれる　いきもので　しょくぶつ　ではない\nかんそうしたものは　たべすぎるとあぶない",
+    "value": "Used Kelp!\nA natural product of the deep sea.\nEating too much dried kelp is dangerous!"
   },
   {
     "index": 8892,
-    "value": "こんぶを　つりあげた！\nヌルヌルしている　「さいやくのきつね」ではない\nびしょくけんきゅうかいに　あげると　よろこばれるかも",
-    "translation": "Got some kelp!\nUnlike the Fox of Calamity, it's very slippery.\nMaybe the Gourmet Research Society would appreciate it."
+    "original": "こんぶを　つりあげた！\nヌルヌルしている　「さいやくのきつね」ではない\nびしょくけんきゅうかいに　あげると　よろこばれるかも",
+    "value": "Got some kelp!\nUnlike the Fox of Calamity, it's very slippery.\nMaybe the Gourmet Research Society would appreciate it."
   },
   {
     "index": 8893,
-    "value": "さいだいHP",
-    "translation": "Max. HP"
+    "original": "さいだいHP",
+    "value": "Max. HP"
   },
   {
     "index": 8894,
-    "value": "さいだいMP",
-    "translation": "Max. MP"
+    "original": "さいだいMP",
+    "value": "Max. MP"
   },
   {
     "index": 8895,
-    "value": "しらべる",
-    "translation": "Examine"
+    "original": "しらべる",
+    "value": "Examine"
   },
   {
     "index": 8896,
-    "value": "じゅもん",
-    "translation": "Spell"
+    "original": "じゅもん",
+    "value": "Spell"
   },
   {
     "index": 8897,
-    "value": "せいふくするけいかく　だったが\nまさか　ゆうしゃが\nここまでたどりつくとは",
-    "translation": "It was all going according to the plan...\nAnd yet... I never would've thought\nyou would get this far."
+    "original": "せいふくするけいかく　だったが\nまさか　ゆうしゃが\nここまでたどりつくとは",
+    "value": "It was all going according to the plan...\nAnd yet... I never would've thought\nyou would get this far."
   },
   {
     "index": 8898,
-    "value": "せかいの　ほうそくが　ほうかいします！",
-    "translation": "The laws of the world will break down!"
+    "original": "せかいの　ほうそくが　ほうかいします！",
+    "value": "The laws of the world will break down!"
   },
   {
     "index": 8899,
-    "value": "せかいの　めいうんは\nあなたのてに　かかっています！",
-    "translation": "The fate of this world is in your hands."
+    "original": "せかいの　めいうんは\nあなたのてに　かかっています！",
+    "value": "The fate of this world is in your hands."
   },
   {
     "index": 8900,
-    "value": "せかいを　おもてと　うらから\nせいふくするけいかく　だったが\nまさか　ゆうしゃが",
-    "translation": "My plan to control the world from every side...\nImpossible! How could you get here?"
+    "original": "せかいを　おもてと　うらから\nせいふくするけいかく　だったが\nまさか　ゆうしゃが",
+    "value": "My plan to control the world from every side...\nImpossible! How could you get here?"
   },
   {
     "index": 8901,
-    "value": "ぜんたんしゃ",
-    "translation": "Bijection"
+    "original": "ぜんたんしゃ",
+    "value": "Bijection"
   },
   {
     "index": 8902,
-    "value": "そなたに　もういちど　きかいを　あたえよう\nつぎこそは　まおうをたおすのだ！",
-    "translation": "I'll give you another chance.\nThis time, you must defeat the devil!"
+    "original": "そなたに　もういちど　きかいを　あたえよう\nつぎこそは　まおうをたおすのだ！",
+    "value": "I'll give you another chance.\nThis time, you must defeat the devil!"
   },
   {
     "index": 8903,
-    "value": "それでも　わたしを　とめたいのであれば\nゆうじょうと　ゆうきと　ひかりの　ちから　\nみせてみるが　いい！",
-    "translation": "If you still insist to stop me,\nthen show me your courage, kindness,\nand the power of light!"
+    "original": "それでも　わたしを　とめたいのであれば\nゆうじょうと　ゆうきと　ひかりの　ちから　\nみせてみるが　いい！",
+    "value": "If you still insist to stop me,\nthen show me your courage, kindness,\nand the power of light!"
   },
   {
     "index": 8904,
-    "value": "たいのやきもの",
-    "translation": "Grilled Sea Bream"
+    "original": "たいのやきもの",
+    "value": "Grilled Sea Bream"
   },
   {
     "index": 8905,
-    "value": "たいのやきものを　つかった！\nうごいてるけど　たべられる\nいのちだいじに　いただきます",
-    "translation": "Used Grilled Sea Bream!\nIt looks like it's moving, but it can be eaten.\nI'll eat it with care and gratitude."
+    "original": "たいのやきものを　つかった！\nうごいてるけど　たべられる\nいのちだいじに　いただきます",
+    "value": "Used Grilled Sea Bream!\nIt looks like it's moving, but it can be eaten.\nI'll eat it with care and gratitude."
   },
   {
     "index": 8906,
-    "value": "たいのやきものを　つりあげた！\nなぜか　まだいきている\nやかれているのに　いきている",
-    "translation": "Picked up grilled sea bream!\nIt looks like it's still alive?!\nDespite being grilled, it's still alive..."
+    "original": "たいのやきものを　つりあげた！\nなぜか　まだいきている\nやかれているのに　いきている",
+    "value": "Picked up grilled sea bream!\nIt looks like it's still alive?!\nDespite being grilled, it's still alive..."
   },
   {
     "index": 8907,
-    "value": "たたかう",
-    "translation": "Attack"
+    "original": "たたかう",
+    "value": "Attack"
   },
   {
     "index": 8908,
-    "value": "だれかのみずぎ",
-    "translation": "Someone's Swimsuit"
+    "original": "だれかのみずぎ",
+    "value": "Someone's Swimsuit"
   },
   {
     "index": 8909,
-    "value": "だれかのみずぎを　つかった！\nうしがらの　とてもセクシーなみずぎ\nもちぬしは　きっと　すごくきばつなひと　だろう",
-    "translation": "Used someone's swimsuit!\nIt's a very attractive swimsuit with a cow print.\nYou believe the owner is a very perverted person."
+    "original": "だれかのみずぎを　つかった！\nうしがらの　とてもセクシーなみずぎ\nもちぬしは　きっと　すごくきばつなひと　だろう",
+    "value": "Used someone's swimsuit!\nIt's a very attractive swimsuit with a cow print.\nYou believe the owner is a very perverted person."
   },
   {
     "index": 8910,
-    "value": "だれかのみずぎを　つりあげた！\nうしのもようで　とてもきわどい\nだれがきていたのだろう",
-    "translation": "Picked up someone's swimsuit!\nIt has a cow print and it's very risque.\nYou wonder who it belongs to..."
+    "original": "だれかのみずぎを　つりあげた！\nうしのもようで　とてもきわどい\nだれがきていたのだろう",
+    "value": "Picked up someone's swimsuit!\nIt has a cow print and it's very risque.\nYou wonder who it belongs to..."
   },
   {
     "index": 8911,
-    "value": "ちかくに　かいだんが　ない！",
-    "translation": "There are no stairs nearby!"
+    "original": "ちかくに　かいだんが　ない！",
+    "value": "There are no stairs nearby!"
   },
   {
     "index": 8912,
-    "value": "ちかくに　しらべる　たいしょうが　ない！",
-    "translation": "There is nothing to interact with nearby!"
+    "original": "ちかくに　しらべる　たいしょうが　ない！",
+    "value": "There is nothing to interact with nearby!"
   },
   {
     "index": 8913,
-    "value": "ちかくに　とびらが　ない！",
-    "translation": "There are no doors nearby!"
+    "original": "ちかくに　とびらが　ない！",
+    "value": "There are no doors nearby!"
   },
   {
     "index": 8914,
-    "value": "ちかくに　はなすあいてが　いない！",
-    "translation": "There is no one to talk to!"
+    "original": "ちかくに　はなすあいてが　いない！",
+    "value": "There is no one to talk to!"
   },
   {
     "index": 8915,
-    "value": "ちっ　やるじゃねぇか・・・\nきょうのところは　みのがしてやる\nつぎは　ぜってぇ　まけねぇからな！",
-    "translation": "You're going to pay for this...\nI'll let you go for now.\nBut next time, I won't lose!"
+    "original": "ちっ　やるじゃねぇか・・・\nきょうのところは　みのがしてやる\nつぎは　ぜってぇ　まけねぇからな！",
+    "value": "You're going to pay for this...\nI'll let you go for now.\nBut next time, I won't lose!"
   },
   {
     "index": 8916,
-    "value": "ちょっと　まちな！\nあたしを　さしおいて　おわりだなんて\nゆるすとでも　おもったか！？　もういちど　しょうぶだ！",
-    "translation": "Wait a minute!\nYou're going to leave me here and call it a day? Did ya\nthink I'd let you go that easily? I'll fight you again!"
+    "original": "ちょっと　まちな！\nあたしを　さしおいて　おわりだなんて\nゆるすとでも　おもったか！？　もういちど　しょうぶだ！",
+    "value": "Wait a minute!\nYou're going to leave me here and call it a day? Did ya\nthink I'd let you go that easily? I'll fight you again!"
   },
   {
     "index": 8917,
-    "value": "ついに　ここまで　きたか\nそう　わたしこそが　しんの　しはいしゃ\nかんたんに　かてると　おもわないほうがいい",
-    "translation": "At last, it has come to this.\nIndeed, I am the mastermind behind it all.\nYou should know better than to underestimate me."
+    "original": "ついに　ここまで　きたか\nそう　わたしこそが　しんの　しはいしゃ\nかんたんに　かてると　おもわないほうがいい",
+    "value": "At last, it has come to this.\nIndeed, I am the mastermind behind it all.\nYou should know better than to underestimate me."
   },
   {
     "index": 8918,
-    "value": "つかえる　じゅもんが　ない！",
-    "translation": "There are no spells you can use!"
+    "original": "つかえる　じゅもんが　ない！",
+    "value": "There are no spells you can use!"
   },
   {
     "index": 8919,
-    "value": "つかえる　どうぐが　ない！",
-    "translation": "There are no items you can use!"
+    "original": "つかえる　どうぐが　ない！",
+    "value": "There are no items you can use!"
   },
   {
     "index": 8920,
-    "value": "つよさ",
-    "translation": "Stats"
+    "original": "つよさ",
+    "value": "Stats"
   },
   {
     "index": 8921,
-    "value": "てめぇも　しつこいな！\nいいぜ　そういうのは　きらいじゃねぇ\nなんどだって　やってやるよ！",
-    "translation": "I see you're a persistent one.\nWell, well, I don't mind that at all!\nI'll fight you as many times as it takes!"
+    "original": "てめぇも　しつこいな！\nいいぜ　そういうのは　きらいじゃねぇ\nなんどだって　やってやるよ！",
+    "value": "I see you're a persistent one.\nWell, well, I don't mind that at all!\nI'll fight you as many times as it takes!"
   },
   {
     "index": 8922,
-    "value": "とびら",
-    "translation": "Door"
+    "original": "とびら",
+    "value": "Door"
   },
   {
     "index": 8923,
-    "value": "とる",
-    "translation": "Take"
+    "original": "とる",
+    "value": "Take"
   },
   {
     "index": 8924,
-    "value": "どうぐ",
-    "translation": "Equipment"
+    "original": "どうぐ",
+    "value": "Equipment"
   },
   {
     "index": 8925,
-    "value": "ながぐつ",
-    "translation": "Pair of Boots"
+    "original": "ながぐつ",
+    "value": "Pair of Boots"
   },
   {
     "index": 8926,
-    "value": "ながぐつを　つかった！",
-    "translation": "Used a Pair of Boots!"
+    "original": "ながぐつを　つかった！",
+    "value": "Used a Pair of Boots!"
   },
   {
     "index": 8927,
-    "value": "ながぐつを　つりあげた！\nつりといえばこれ",
-    "translation": "Picked up the pair of boots!\nTalk about fishing..."
+    "original": "ながぐつを　つりあげた！\nつりといえばこれ",
+    "value": "Picked up the pair of boots!\nTalk about fishing..."
   },
   {
     "index": 8928,
-    "value": "なにも　つれなかった！",
-    "translation": "Nothing was caught!"
+    "original": "なにも　つれなかった！",
+    "value": "Nothing was caught!"
   },
   {
     "index": 8929,
-    "value": "にげる",
-    "translation": "Escape"
+    "original": "にげる",
+    "value": "Escape"
   },
   {
     "index": 8930,
-    "value": "にははは！　あなたに　うらみは　ないですが\nこれも　せんぱいたちからの　たのみなので！",
-    "translation": "Ahahah... Nothing personal against you.\nIt's merely a request from my superiors!"
+    "original": "にははは！　あなたに　うらみは　ないですが\nこれも　せんぱいたちからの　たのみなので！",
+    "value": "Ahahah... Nothing personal against you.\nIt's merely a request from my superiors!"
   },
   {
     "index": 8931,
-    "value": "にゅうしゅ　こんなんで　かちのある　ゲームき\nちゅうこでも　きちょうな　ざいさんだ\nざんねんながら　こわれているようだ",
-    "translation": "A game console with impressive features and performance.\nYou feel the urge to play a game on it.\nAlas, it looks like it's no longer functional."
+    "original": "にゅうしゅ　こんなんで　かちのある　ゲームき\nちゅうこでも　きちょうな　ざいさんだ\nざんねんながら　こわれているようだ",
+    "value": "A game console with impressive features and performance.\nYou feel the urge to play a game on it.\nAlas, it looks like it's no longer functional."
   },
   {
     "index": 8932,
-    "value": "はなす",
-    "translation": "Talk"
+    "original": "はなす",
+    "value": "Talk"
   },
   {
     "index": 8933,
-    "value": "ひかり　よ！",
-    "translation": "Let the light shine!"
+    "original": "ひかり　よ！",
+    "value": "Let the light shine!"
   },
   {
     "index": 8934,
-    "value": "ひかりのつるぎ",
-    "translation": "Sword of Light"
+    "original": "ひかりのつるぎ",
+    "value": "Sword of Light"
   },
   {
     "index": 8935,
-    "value": "ひかりのつるぎが　はんのうしている！\nありすの　こうげきカが　あがった！",
-    "translation": "The Sword of Light was acquired!\nAris' attack power has increased!"
+    "original": "ひかりのつるぎが　はんのうしている！\nありすの　こうげきカが　あがった！",
+    "value": "The Sword of Light was acquired!\nAris' attack power has increased!"
   },
   {
     "index": 8936,
-    "value": "ぶき",
-    "translation": "Weapon"
+    "original": "ぶき",
+    "value": "Weapon"
   },
   {
     "index": 8937,
-    "value": "べちゃべちゃの　からあげ\nごみぶくろに　いれた",
-    "translation": "This fried chicken sure is soggy now...\nYou put it into the trash."
+    "original": "べちゃべちゃの　からあげ\nごみぶくろに　いれた",
+    "value": "This fried chicken sure is soggy now...\nYou put it into the trash."
   },
   {
     "index": 8938,
-    "value": "ぼうぎょカ",
-    "translation": "Defense"
+    "original": "ぼうぎょカ",
+    "value": "Defense"
   },
   {
     "index": 8939,
-    "value": "まおうからは　にげられない！",
-    "translation": "You cannot escape from the Demon Lord!"
+    "original": "まおうからは　にげられない！",
+    "value": "You cannot escape from the Demon Lord!"
   },
   {
     "index": 8940,
-    "value": "まおうの　しょうたいとは\nなにをかくそう\nそう　このわたし　おうじょユウカ",
-    "translation": "The true identity of the Demon Lord...\nHeh, I guess I'll tell you now.\nIt's me, Princess Yuuka."
+    "original": "まおうの　しょうたいとは\nなにをかくそう\nそう　このわたし　おうじょユウカ",
+    "value": "The true identity of the Demon Lord...\nHeh, I guess I'll tell you now.\nIt's me, Princess Yuuka."
   },
   {
     "index": 8941,
-    "value": "まおうのしろの　あかりは\nくれぐれも　けしては　いけません",
-    "translation": "You must not extinguish the lights in the Demon Lord's lair."
+    "original": "まおうのしろの　あかりは\nくれぐれも　けしては　いけません",
+    "value": "You must not extinguish the lights in the Demon Lord's lair."
   },
   {
     "index": 8942,
-    "value": "まおうユウカ",
-    "translation": "Demon Lord Yuuka"
+    "original": "まおうユウカ",
+    "value": "Demon Lord Yuuka"
   },
   {
     "index": 8943,
-    "value": "めいちゅうカ",
-    "translation": "Crit"
+    "original": "めいちゅうカ",
+    "value": "Crit"
   },
   {
     "index": 8944,
-    "value": "もっていると　びしょくけんきゅうかいや\nせいぎじつげんいいんかいが　やってくるかも？",
-    "translation": "If you possess this item, the Gourmet Research Society\nor the Justice Task Force may come to investigate."
+    "original": "もっていると　びしょくけんきゅうかいや\nせいぎじつげんいいんかいが　やってくるかも？",
+    "value": "If you possess this item, the Gourmet Research Society\nor the Justice Task Force may come to investigate."
   },
   {
     "index": 8945,
-    "value": "よろい",
-    "translation": "Armor"
+    "original": "よろい",
+    "value": "Armor"
   },
   {
     "index": 8947,
-    "value": "ウナギ",
-    "translation": "Eel"
+    "original": "ウナギ",
+    "value": "Eel"
   },
   {
     "index": 8948,
-    "value": "ウナギを　つかった！\nぬるぬるして　うねうねする　さかな\nたべると「げんき」になる　といわれている",
-    "translation": "Used eel!\nIt's rather slimy and wriggly.\nIt's said that eating it will make you \"healthy\"."
+    "original": "ウナギを　つかった！\nぬるぬるして　うねうねする　さかな\nたべると「げんき」になる　といわれている",
+    "value": "Used eel!\nIt's rather slimy and wriggly.\nIt's said that eating it will make you \"healthy\"."
   },
   {
     "index": 8949,
-    "value": "ウナギを　つりあげた！\nたべると　スタミナがつく　らしい\nきゅうしょくぶに　さばいてもらおう",
-    "translation": "Caught an eel!\nIt's said that eating it will increase your stamina.\nYou should let the School Lunch Club handle it."
+    "original": "ウナギを　つりあげた！\nたべると　スタミナがつく　らしい\nきゅうしょくぶに　さばいてもらおう",
+    "value": "Caught an eel!\nIt's said that eating it will increase your stamina.\nYou should let the School Lunch Club handle it."
   },
   {
     "index": 8950,
-    "value": "エンディング名：",
-    "translation": "Ending Name:"
+    "original": "エンディング名：",
+    "value": "Ending Name:"
   },
   {
     "index": 8951,
-    "value": "カタストロフィーりろん",
-    "translation": "Catastrophe Theory"
+    "original": "カタストロフィーりろん",
+    "value": "Catastrophe Theory"
   },
   {
     "index": 8952,
-    "value": "クロネッカーのデルタ",
-    "translation": "Kronecker Delta"
+    "original": "クロネッカーのデルタ",
+    "value": "Kronecker Delta"
   },
   {
     "index": 8953,
-    "value": "ゲームガールズアドバンスSPが　つれた・・・",
-    "translation": "Got Gamegirl Advance SP..."
+    "original": "ゲームガールズアドバンスSPが　つれた・・・",
+    "value": "Got Gamegirl Advance SP..."
   },
   {
     "index": 8954,
-    "value": "ゲームガールズアドバンスが　つれた・・・",
-    "translation": "Got Gamegirl Advance..."
+    "original": "ゲームガールズアドバンスが　つれた・・・",
+    "value": "Got Gamegirl Advance..."
   },
   {
     "index": 8955,
-    "value": "コユキ",
-    "translation": "Koyuki"
+    "original": "コユキ",
+    "value": "Koyuki"
   },
   {
     "index": 8956,
-    "value": "ゴールドマグロ",
-    "translation": "Gold Tuna"
+    "original": "ゴールドマグロ",
+    "value": "Gold Tuna"
   },
   {
     "index": 8957,
-    "value": "ゴールドマグロを　つかった！",
-    "translation": "Used Gold Tuna!"
+    "original": "ゴールドマグロを　つかった！",
+    "value": "Used Gold Tuna!"
   },
   {
     "index": 8958,
-    "value": "ゴールドマグロを　つりあげた！\nトリニティの　アクアリウムに　てんじされていたらしい\nもっていると　とおくからだれかに　みられているきがする",
-    "translation": "Caught a Gold Tuna!\nIt looks like something that'd be exhibited at the Trinity\nAquarium. I feel like someone's watching me from afar now."
+    "original": "ゴールドマグロを　つりあげた！\nトリニティの　アクアリウムに　てんじされていたらしい\nもっていると　とおくからだれかに　みられているきがする",
+    "value": "Caught a Gold Tuna!\nIt looks like something that'd be exhibited at the Trinity\nAquarium. I feel like someone's watching me from afar now."
   },
   {
     "index": 8959,
-    "value": "ゴーレムでできた　おおきな　こけいせっけん\nつちに　かえしてあげた",
-    "translation": "A large bar of soap made by a golem.\nYou put it back in the ground."
+    "original": "ゴーレムでできた　おおきな　こけいせっけん\nつちに　かえしてあげた",
+    "value": "A large bar of soap made by a golem.\nYou put it back in the ground."
   },
   {
     "index": 8960,
-    "value": "ゴーレムのせっけんが　つれた・・・",
-    "translation": "Got the Golem's Soap..."
+    "original": "ゴーレムのせっけんが　つれた・・・",
+    "value": "Got the Golem's Soap..."
   },
   {
     "index": 8961,
-    "value": "サイクロプス　せんようの　VRヘッドセット\nデザインが　シンプルで　かっこいい！\nごみぶくろに　いれた",
-    "translation": "The Cyclops VR Headset is simple and stylish!\nYou put it into the trash."
+    "original": "サイクロプス　せんようの　VRヘッドセット\nデザインが　シンプルで　かっこいい！\nごみぶくろに　いれた",
+    "value": "The Cyclops VR Headset is simple and stylish!\nYou put it into the trash."
   },
   {
     "index": 8962,
-    "value": "サイクロプスが　みにつける　がんたい\nつけると　まえが　みえなくなる\nごみぶくろに　いれた",
-    "translation": "Cyclops Goggles.\nWhen worn, you cannot see what's in front of you.\nYou put it into the trash."
+    "original": "サイクロプスが　みにつける　がんたい\nつけると　まえが　みえなくなる\nごみぶくろに　いれた",
+    "value": "Cyclops Goggles.\nWhen worn, you cannot see what's in front of you.\nYou put it into the trash."
   },
   {
     "index": 8963,
-    "value": "サイクロプスのVRヘッドセットが　つれた・・・",
-    "translation": "Got Cyclops VR Headset..."
+    "original": "サイクロプスのVRヘッドセットが　つれた・・・",
+    "value": "Got Cyclops VR Headset..."
   },
   {
     "index": 8964,
-    "value": "サイクロプスのがんたいが　つれた・・・",
-    "translation": "Got Cyclops Goggles..."
+    "original": "サイクロプスのがんたいが　つれた・・・",
+    "value": "Got Cyclops Goggles..."
   },
   {
     "index": 8965,
-    "value": "サキュバスが　ゆうじんたちと　とったしゃしん\nみんなの　えがおが　かがやいている\nほんものは　あたたかいおうちに　かざって　あるのだろう",
-    "translation": "A photo that the succubus took with her friends.\nEveryone's smiling faces are shining. You wonder\nif the final photo is displayed in a warm house somewhere."
+    "original": "サキュバスが　ゆうじんたちと　とったしゃしん\nみんなの　えがおが　かがやいている\nほんものは　あたたかいおうちに　かざって　あるのだろう",
+    "value": "A photo that the succubus took with her friends.\nEveryone's smiling faces are shining. You wonder\nif the final photo is displayed in a warm house somewhere."
   },
   {
     "index": 8966,
-    "value": "サキュバスのしゃしんが　つれた・・・",
-    "translation": "Got a photo of a succubus..."
+    "original": "サキュバスのしゃしんが　つれた・・・",
+    "value": "Got a photo of a succubus..."
   },
   {
     "index": 8967,
-    "value": "サキュバスのしゅうごうしゃしんが　つれた・・・",
-    "translation": "Got a photo of a succubus..."
+    "original": "サキュバスのしゅうごうしゃしんが　つれた・・・",
+    "value": "Got a photo of a succubus..."
   },
   {
     "index": 8968,
-    "value": "サキュバスのしょうめいしゃしんが　つれた・・・",
-    "translation": "Got a photo of a succubus..."
+    "original": "サキュバスのしょうめいしゃしんが　つれた・・・",
+    "value": "Got a photo of a succubus..."
   },
   {
     "index": 8969,
-    "value": "サキュバスのふるいしゃしんが　つれた・・・",
-    "translation": "Got an old photo of a succubus..."
+    "original": "サキュバスのふるいしゃしんが　つれた・・・",
+    "value": "Got an old photo of a succubus..."
   },
   {
     "index": 8970,
-    "value": "サラマンダーのひけしセットが　つれた・・・",
-    "translation": "Got the firefighter set of the Salamander..."
+    "original": "サラマンダーのひけしセットが　つれた・・・",
+    "value": "Got the firefighter set of the Salamander..."
   },
   {
     "index": 8971,
-    "value": "サラマンダーも　えんじょうを　きにする　じだい\nもちぬしは　だいじょうぶだろうか\nごみぶくろに　いれた",
-    "translation": "Nowadays, Salamanders are also afraid of fires.\nYou hope the original owner is okay.\nYou put it into the trash."
+    "original": "サラマンダーも　えんじょうを　きにする　じだい\nもちぬしは　だいじょうぶだろうか\nごみぶくろに　いれた",
+    "value": "Nowadays, Salamanders are also afraid of fires.\nYou hope the original owner is okay.\nYou put it into the trash."
   },
   {
     "index": 8972,
-    "value": "シンまおうユウカ",
-    "translation": "Demon Lord Yuuka"
+    "original": "シンまおうユウカ",
+    "value": "Demon Lord Yuuka"
   },
   {
     "index": 8973,
-    "value": "スネイルスイーパー",
-    "translation": "Snail Sweeper"
+    "original": "スネイルスイーパー",
+    "value": "Snail Sweeper"
   },
   {
     "index": 8974,
-    "value": "スミレ",
-    "translation": "Sumire"
+    "original": "スミレ",
+    "value": "Sumire"
   },
   {
     "index": 8975,
-    "value": "スミレが　なかまに　なった！",
-    "translation": "Sumire has joined your party!"
+    "original": "スミレが　なかまに　なった！",
+    "value": "Sumire has joined your party!"
   },
   {
     "index": 8976,
-    "value": "スミレを　つりあげた！\nスミレは　とつぜん　おそいかかってきた",
-    "translation": "Caught Sumire!\nShe suddenly approaches you."
+    "original": "スミレを　つりあげた！\nスミレは　とつぜん　おそいかかってきた",
+    "value": "Caught Sumire!\nShe suddenly approaches you."
   },
   {
     "index": 8977,
-    "value": "スミレ：\nさあ　トレーニングを　はじめましょう",
-    "translation": "Sumire:\nLet's start training!"
+    "original": "スミレ：\nさあ　トレーニングを　はじめましょう",
+    "value": "Sumire:\nLet's start training!"
   },
   {
     "index": 8978,
-    "value": "スミレ：\nウォーミングアップは　できていますよ",
-    "translation": "Sumire:\nYou've warmed up and are ready to go."
+    "original": "スミレ：\nウォーミングアップは　できていますよ",
+    "value": "Sumire:\nYou've warmed up and are ready to go."
   },
   {
     "index": 8979,
-    "value": "スミレ：\nプロテインの　じゅんびは　よいですか？",
-    "translation": "Sumire:\nIs your protein intake good?"
+    "original": "スミレ：\nプロテインの　じゅんびは　よいですか？",
+    "value": "Sumire:\nIs your protein intake good?"
   },
   {
     "index": 8980,
-    "value": "タイトル画面起動: {0}",
-    "translation": "Start title screen: {0}"
+    "original": "タイトル画面起動: {0}",
+    "value": "Start title screen: {0}"
   },
   {
     "index": 8981,
-    "value": "ダイキルト",
-    "translation": "Zoomph"
+    "original": "ダイキルト",
+    "value": "Zoomph"
   },
   {
     "index": 8982,
-    "value": "ネル",
-    "translation": "Neru"
+    "original": "ネル",
+    "value": "Neru"
   },
   {
     "index": 8983,
-    "value": "ノア",
-    "translation": "Noa"
+    "original": "ノア",
+    "value": "Noa"
   },
   {
     "index": 8984,
-    "value": "ハイドラが　つかっていた　からっぽの　めぐすり\nあたまが　いっぱいだと　さすのが　たいへん！\nごみぶくろに　いれた",
-    "translation": "An empty bottle of eye drops belinging to a Hydra.\nMust be cumbersome with how many heads they have.\nYou put it into the trash."
+    "original": "ハイドラが　つかっていた　からっぽの　めぐすり\nあたまが　いっぱいだと　さすのが　たいへん！\nごみぶくろに　いれた",
+    "value": "An empty bottle of eye drops belinging to a Hydra.\nMust be cumbersome with how many heads they have.\nYou put it into the trash."
   },
   {
     "index": 8985,
-    "value": "ハイドラのめぐすりが　つれた・・・",
-    "translation": "Got Hydra's Eye Drops..."
+    "original": "ハイドラのめぐすりが　つれた・・・",
+    "value": "Got Hydra's Eye Drops..."
   },
   {
     "index": 8986,
-    "value": "ピラニアが　つれた・・・",
-    "translation": "Got Piranha・・・"
+    "original": "ピラニアが　つれた・・・",
+    "value": "Got Piranha・・・"
   },
   {
     "index": 8987,
-    "value": "ピラニアは　じつは　とても　おくびょう\nここには　たくさん　いるのかな\nにがしてあげた",
-    "translation": "In reality, piranhas are actually very timid.\nYou wonder if there are a lot of them here.\nYou released it."
+    "original": "ピラニアは　じつは　とても　おくびょう\nここには　たくさん　いるのかな\nにがしてあげた",
+    "value": "In reality, piranhas are actually very timid.\nYou wonder if there are a lot of them here.\nYou released it."
   },
   {
     "index": 8988,
-    "value": "フェニックスのからあげが　つれた・・・",
-    "translation": "Got Phoenix Fried Chicken..."
+    "original": "フェニックスのからあげが　つれた・・・",
+    "value": "Got Phoenix Fried Chicken..."
   },
   {
     "index": 8989,
-    "value": "フェルマーのさいしゅうていり",
-    "translation": "Fermat's Last Theorem"
+    "original": "フェルマーのさいしゅうていり",
+    "value": "Fermat's Last Theorem"
   },
   {
     "index": 8990,
-    "value": "プライステーションが　つれた・・・",
-    "translation": "Got FlyStation..."
+    "original": "プライステーションが　つれた・・・",
+    "value": "Got FlyStation..."
   },
   {
     "index": 8991,
-    "value": "マジカルバリア",
-    "translation": "Magical Barrier"
+    "original": "マジカルバリア",
+    "value": "Magical Barrier"
   },
   {
     "index": 8992,
-    "value": "ラストエリクシャー",
-    "translation": "The Last Elixir"
+    "original": "ラストエリクシャー",
+    "value": "The Last Elixir"
   },
   {
     "index": 8993,
-    "value": "リッチのびようえきが　つれた・・・",
-    "translation": "Got Lich Serum..."
+    "original": "リッチのびようえきが　つれた・・・",
+    "value": "Got Lich Serum..."
   },
   {
     "index": 8994,
-    "value": "リッチも　しろさを　たもつのに　ひとくろう\nまいにちの　ケアは　かかせない\nごみぶくろに　いれた",
-    "translation": "Lich Serum used for keeping skin bright.\nDaily care is essential even for liches...\nYou put it into the trash."
+    "original": "リッチも　しろさを　たもつのに　ひとくろう\nまいにちの　ケアは　かかせない\nごみぶくろに　いれた",
+    "value": "Lich Serum used for keeping skin bright.\nDaily care is essential even for liches...\nYou put it into the trash."
   },
   {
     "index": 8995,
-    "value": "レベル",
-    "translation": "Level"
+    "original": "レベル",
+    "value": "Level"
   },
   {
     "index": 8996,
-    "value": "ワイトの　つかいふるした　ヘアアイロン\nもちぬしの　ワイトは　かみのけが　あったのだろうか\nごみぶくろに　いれた",
-    "translation": "A hair iron that looks used.\nYou wonder why the owner no longer uses it.\nYou put it into the trash."
+    "original": "ワイトの　つかいふるした　ヘアアイロン\nもちぬしの　ワイトは　かみのけが　あったのだろうか\nごみぶくろに　いれた",
+    "value": "A hair iron that looks used.\nYou wonder why the owner no longer uses it.\nYou put it into the trash."
   },
   {
     "index": 8997,
-    "value": "ワイトのヘアアイロンが　つれた・・・",
-    "translation": "Got Wight's Used Hair Iron..."
+    "original": "ワイトのヘアアイロンが　つれた・・・",
+    "value": "Got Wight's Used Hair Iron..."
   },
   {
     "index": 8998,
-    "value": "ワイトのヘアオイルが　つれた・・・",
-    "translation": "Got Wight's Hair Treatment Oil..."
+    "original": "ワイトのヘアオイルが　つれた・・・",
+    "value": "Got Wight's Hair Treatment Oil..."
   },
   {
     "index": 8999,
-    "value": "ワイトも　サラサラヘアに　あこがれている\nきっといつかは　かなうだろう\nごみぶくろに　いれた",
-    "translation": "This promises to make your hair silky smooth.\nDo the undead yearn for silky smooth hair too?\nYou put it into the trash."
+    "original": "ワイトも　サラサラヘアに　あこがれている\nきっといつかは　かなうだろう\nごみぶくろに　いれた",
+    "value": "This promises to make your hair silky smooth.\nDo the undead yearn for silky smooth hair too?\nYou put it into the trash."
   },
   {
     "index": 9000,
-    "value": "・・・",
-    "translation": "・・・"
+    "original": "・・・",
+    "value": "・・・"
   },
   {
     "index": 9017,
-    "value": "変換ができないコマンドです: {0}",
-    "translation": "Could not convert command: {0}"
+    "original": "変換ができないコマンドです: {0}",
+    "value": "Could not convert command: {0}"
   },
   {
     "index": 9031,
-    "value": "決定操作が定義されていません: {0}",
-    "translation": "Undefined decision operation: {0}"
+    "original": "決定操作が定義されていません: {0}",
+    "value": "Undefined decision operation: {0}"
   },
   {
     "index": 9032,
-    "value": "渡されたDialogueContentが無でした",
-    "translation": "The passed DialogueContent was empty."
+    "original": "渡されたDialogueContentが無でした",
+    "value": "The passed DialogueContent was empty."
   },
   {
     "index": 9033,
-    "value": "無効なUnitGroupです {0}",
-    "translation": "Invalid UnitGroup: {0}"
+    "original": "無効なUnitGroupです {0}",
+    "value": "Invalid UnitGroup: {0}"
   },
   {
     "index": 9034,
-    "value": "無効なコマンドです {0}",
-    "translation": "Invalid command: {0}"
+    "original": "無効なコマンドです {0}",
+    "value": "Invalid command: {0}"
   },
   {
     "index": 9036,
-    "value": "表エンディング",
-    "translation": "Normal Ending"
+    "original": "表エンディング",
+    "value": "Normal Ending"
   },
   {
     "index": 9037,
-    "value": "表ユウカの撃破: {0}",
-    "translation": "Defeated Yuuka (Normal): {0}"
+    "original": "表ユウカの撃破: {0}",
+    "value": "Defeated Yuuka (Normal): {0}"
   },
   {
     "index": 9038,
-    "value": "裏エンディング",
-    "translation": "Secret Ending"
+    "original": "裏エンディング",
+    "value": "Secret Ending"
   },
   {
     "index": 9039,
-    "value": "裏ユウカの撃破: {0}",
-    "translation": "Defeated Yuuka (Secret): {0}"
+    "original": "裏ユウカの撃破: {0}",
+    "value": "Defeated Yuuka (Secret): {0}"
   }
 ]

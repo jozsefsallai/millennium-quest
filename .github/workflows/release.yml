@@ -1,0 +1,61 @@
+name: release
+
+on:
+  push:
+    tags:
+      - '*'
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - name: Set up Go
+        uses: actions/setup-go@v2
+        with:
+          go-version: 1.19
+
+      - name: Prepare directory structure
+        run: mkdir -p game-dist/tools
+
+      - name: Download il2cpp-stringliteral-patcher
+        run: git clone https://github.com/jozsefsallai/il2cpp-stringliteral-patcher.git game-dist/tools/il2cpp-stringliteral-patcher
+
+      - name: Download unityweb
+        run: go install github.com/jozsefsallai/unityweb/cmd/unityweb@latest
+
+      - name: Download base game data from S3
+        uses: keithweaver/aws-s3-github-action@v1.0.0
+        with:
+          command: cp
+          source: s3://nimblebunworks-data/millennium-quest/game-base.zip
+          destination: game-dist/game-base.zip
+          aws_access_key_id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws_secret_access_key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws_region: us-west-1
+
+      - name: Unzip base game data
+        run: unzip game-dist/game-base.zip -d game-dist/base && rm game-dist/game-base.zip
+
+      - name: Patch strings
+        run: python game-dist/tools/il2cpp-stringliteral-patcher/patch.py -i game-dist/base/global-metadata-original.dat -p strings.json -o game-dist/base/unpacked/Il2CppData/Metadata/global-metadata.dat
+
+      - name: Pack new data file
+        run: unityweb pack -i game-dist/base/unpacked -o game-dist/base/ba2.data.br
+
+      - name: Upload new data file to S3
+        uses: keithweaver/aws-s3-github-action@v1.0.0
+        with:
+          command: cp
+          source: game-dist/base/ba2.data.br
+          destination: s3://nimblebunworks-data/millennium-quest/en/Build/ba3.data.br
+          aws_access_key_id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws_secret_access_key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws_region: us-west-1
+
+      - name: Clean up
+        run: rm -rf game-dist
